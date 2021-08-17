@@ -1,5 +1,5 @@
 # # Desafio Front-End Mentor 2/44 💪🤓
-# Stats-preview-card-component
+# Stats Preview Card Component
 
 https://rogerioduenas.github.io/card-component-front-end-mentor/
  
